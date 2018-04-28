@@ -1,0 +1,12 @@
+[符号]  
+
+jalksfjdkl
+int
+float
+skald
+12
+34
++
+==
+|
+|
